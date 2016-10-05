@@ -1,0 +1,3 @@
+var	wiek	=	10
+println("mam \(wiek)	lat")
+println("za rok	bede	mial	\(wiek	+	1)	lat")
